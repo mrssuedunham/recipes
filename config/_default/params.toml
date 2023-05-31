@@ -1,7 +1,7 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Wheat Free Recipes"
+title = "Wheat Free Recipe"
 titleSeparator = "-"
 titleAddition = "Gluten free, wheat free, fast and easy."
 description = "A scrumptious collection of gluten free, wheat free recipes that are fast and easy to make."
@@ -13,7 +13,7 @@ description = "A scrumptious collection of gluten free, wheat free recipes that 
 # images = [""]
 ogLocale = "en_US"
 domainTLD = "wheatfreerecipe.com"
-titleHome = "WheatFreeRecipe"
+titleHome = "Wheat Free Recipe"
 
 ## Twitter Cards
 twitterCreator = "@MrsSueDunham"
@@ -75,8 +75,8 @@ lastMod = false
   clipBoard = true
   instantPage = true
   flexSearch = true
-  searchSectionsShow = []
-  searchSectionsIndex = []
+  searchSectionsShow = ["ALL"]
+  searchSectionsIndex = ["ALL"]
   darkMode = true
   bootStrapJs = true
   breadCrumb = false
