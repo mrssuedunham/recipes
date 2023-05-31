@@ -1,3 +1,1 @@
-# Recipes
-
-Coming soon!
+# Wheat-Free Recipes
