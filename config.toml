@@ -1,0 +1,3 @@
+baseURL = 'https://wheatfreerecipe.com/'
+languageCode = 'en-us'
+title = 'Wheat Free Recipe'
