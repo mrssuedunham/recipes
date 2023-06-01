@@ -1,4 +1,9 @@
 [[main]]
+  name = "Recipes"
+  url = "/recipes/"
+  weight = 10
+
+[[main]]
   name = "Blog"
   url = "/blog/"
   weight = 20
