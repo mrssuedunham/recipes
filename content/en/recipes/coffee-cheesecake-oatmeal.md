@@ -24,8 +24,7 @@ Optional toppings: chocolate chips, cocoa powder, ground flaxseed
 
 ## Instructions
 
-{{< alert icon="⏲️" text="A half cup of oatmeal and a cup of water cook up in a 1.55kw microwave in one-and-a-half minutes. Do with this information what you will." />}}
-
 1. Combine.
 2. Eat!
 
+{{< alert icon=“⏲️” text=“A half cup of oatmeal and a cup of water cook up in a 1.55kw microwave in one-and-a-half minutes. Do with this information what you will.” />}}
