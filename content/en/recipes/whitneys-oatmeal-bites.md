@@ -1,5 +1,5 @@
 ---
-title: "Whitneys Peanut Butter Cocoa Oatmeal Bites"
+title: "Whitney’s Peanut Butter Cocoa Oatmeal Bites"
 description: "PB & chocolate craving banisher."
 date: 2023-06-06T00:11:09Z
 lastmod: 2023-06-06T00:11:09Z
