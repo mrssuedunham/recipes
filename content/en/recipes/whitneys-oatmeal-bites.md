@@ -4,7 +4,7 @@ description: "PB & chocolate craving banisher."
 date: 2023-06-06T00:11:09Z
 lastmod: 2023-06-06T00:11:09Z
 draft: false
-images: ["oatmeal-bites.jpeg"]
+images: ["./oatmeal-bites.jpeg"]
 categories: ["Not Boring Oatmeal"]
 tags: ["cold", "soy free", "dairy free", "involves chocolate", "sweet"]
 contributors: ["Whitney @witlegit"]
